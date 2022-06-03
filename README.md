@@ -1,5 +1,4 @@
 
--->
 # HindustanTimes_Clone
 <ul>
   <li>Hindustan Times is an Indian English-language daily newspaper founded in 1924 by Sunder Singh Lyallpuri, founder-father of the Akali movement and the Shiromani Akali Dal in the Punjab Province. It played integral roles in the Indian independence movement as a nationalist daily.</li>
@@ -9,9 +8,19 @@
 </ul>
 
 # Home Page HindustanTime
-<div>
+<!-- <div>
   <img style=" display flex; width: 700px;height: 600px; text-align: center; justify-content: center;"  src="https://www.naina.co/wp-content/uploads/2015/05/Naina.co-Luxury-Lifestyle-Photographer-Storyteller-Blogger-Raconteuse-Visuelle-Hindustan-Times-Five-Fashion-Bloggers-Follow-Press-02.jpg" >
-</div>
+</div> -->
+![Screenshot 2022-06-03 175230](https://user-images.githubusercontent.com/98772205/171854640-815540ae-189b-402c-a3cb-025824eb748e.png)
+# Login Page
+![Screenshot 2022-06-03 175258](https://user-images.githubusercontent.com/98772205/171855137-930a3d31-b6cf-4e46-b340-88ee107cec51.png)
+#Search page
+![Screenshot 2022-06-03 175445](https://user-images.githubusercontent.com/98772205/171855411-444edbf9-cb0d-4195-b17d-08611ae60434.png)
+# Explore page
+![Screenshot 2022-06-03 175516](https://user-images.githubusercontent.com/98772205/171855470-02d019da-af31-4067-a29c-053f1d6d2398.png)
+
+
+
 
 ## Skills and Frameworks
  <div style="display flex">
@@ -28,4 +37,4 @@
             <img   src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="">
             <img   src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="">
             <img   
--->
+
